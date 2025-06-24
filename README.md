@@ -1,6 +1,8 @@
 # Simon-Game
 This is a web-based recreation of the classic Simon Game that tests your memory by generating and playing a sequence of colors and sounds, which the user must repeat in the same order.
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/08ad1048-deb6-4b4a-ae96-6f6e310b23d1" />
+
 Game Objective:
 Repeat the sequence of colors played by the game. Each round adds a new color to the sequence, testing your memory and reflexes. One wrong move — and it's game over!
 
